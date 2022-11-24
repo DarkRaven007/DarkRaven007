@@ -3,6 +3,9 @@
 - 🌱 I am currently learning JavaScript, Python, C/C++, C#, HTML, CSS.
 - 📫 My social networks are:
 
+YouTube:
+The Dark Raven
+
 Twitch:
 TheDarkRaven_X
 
